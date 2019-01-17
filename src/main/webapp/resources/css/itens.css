@@ -1,0 +1,28 @@
+.cart{
+	padding:20px;
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+}
+.btn-remove{
+	background-color: #ED5560
+}
+
+.btn-finaliza{
+	background-color: #153E5C;
+}
+
+.btn-atualiza{
+	background-color: #87AEB4
+}
+
+.btn{
+	color: white;
+}
+.btn:hover{
+	color: white;
+}
+
+form{
+	display:inline;
+}
